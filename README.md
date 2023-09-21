@@ -16,11 +16,7 @@ Full-Stack Developer | Open Source Enthusiast | [LinkedIn](https://www.linkedin.
 
 <!-- GitHub Stats Section -->
 ## GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?jessicahattig=jessicahattig&show_icons=true&theme=dark)](https://github.com/jessicahattig)
-
-<!-- Contributions Section -->
-## Contributions
-- [Contribution Name](https://github.com/yourusername/contribution-repo) - Description of your contribution.
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicahattig&show_icons=true&theme=dark)](https://github.com/jessicahattig)
 
 <!-- Footer Section -->
 ## Let's Connect :coffee:
