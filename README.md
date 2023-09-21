@@ -8,6 +8,12 @@ You can click the Preview link to take a look at your changes.
 
 Full-Stack Developer | Open Source Enthusiast | [LinkedIn](https://www.linkedin.com/in/jessicahattig) |
 
+, - . _
+| - . - . - _ , - . - ' - . - . | - . - . - - . - . - _ , - . - ' - . - . - . | - . - . - _ - . - . - _ - . - ' , - . - . - , - . - . _ , , - . _ _
+| _ - . - . - . - ' - . -
+- ' - . _ , , _ - . | - . - . - - . - . - ' - .
+- . - . - . - ' - . - . - '
+
 <!-- Skills Section -->
 ## Skills
 - :computer: JavaScript, C#
