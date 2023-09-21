@@ -1,16 +1,10 @@
-- 👋 Hi, I’m @jessicahattig
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 jessicahattig/jessicahattig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
 <!-- Header Section -->
-# Hi, I'm @jessicahattig 👋
+# Hi, I'm Jessica 👋
 
 Full-Stack Developer | Open Source Enthusiast | [LinkedIn](https://www.linkedin.com/in/jessicahattig) |
 
@@ -22,7 +16,7 @@ Full-Stack Developer | Open Source Enthusiast | [LinkedIn](https://www.linkedin.
 
 <!-- GitHub Stats Section -->
 ## GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)](https://github.com/yourusername)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?jessicahattig=jessicahattig&show_icons=true&theme=dark)](https://github.com/jessicahattig)
 
 <!-- Contributions Section -->
 ## Contributions
