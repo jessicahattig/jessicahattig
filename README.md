@@ -14,5 +14,5 @@ Full-Stack Developer | Open Source Enthusiast |
 ![React](https://img.shields.io/badge/React-00478F?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-003776?style=for-the-badge&logo=node.js&logoColor=white)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=jessicahattig&theme=prussian)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jessicahattig&theme=prussian&mode=weekly)](https://git.io/streak-stats)
 
