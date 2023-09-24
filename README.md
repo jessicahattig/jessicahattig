@@ -8,8 +8,8 @@ You can click the Preview link to take a look at your changes.
 
 Full-Stack Developer | Open Source Enthusiast |
 
-![HTML](https://img.shields.io/badge/HTML5-007ACC?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-006DBE?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-007ACC?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-006DBE?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-005AA6?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-00478F?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-003776?style=for-the-badge&logo=node.js&logoColor=white)
