@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!-- Header Section -->
-# Hi, I'm Jessica 👋
+# Hi, I'm Jessica 🌟
 
 Full-Stack Developer | Open Source Enthusiast | [LinkedIn](https://www.linkedin.com/in/jessicahattig) |
 
