@@ -16,7 +16,7 @@ Full-Stack Developer | Open Source Enthusiast | [LinkedIn](https://www.linkedin.
 
 <!-- GitHub Stats Section -->
 ## GitHub Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jessicahattig&show_icons=true&theme=dark)](https://github.com/jessicahattig)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jessicahattig&theme=prussian)](https://git.io/streak-stats)
 
 <!-- Footer Section -->
 ## Let's Connect :coffee:
