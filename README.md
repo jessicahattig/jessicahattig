@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 ![JavaScript](https://img.shields.io/badge/JavaScript-005AA6?style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React-00478F?style=for-the-badge&logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-003776?style=for-the-badge&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FFD700?style=for-the-badge&logo=sql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-5E60CE?style=for-the-badge&logo=sql&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jessicahattig&theme=prussian&mode=weekly)](https://git.io/streak-stats)
