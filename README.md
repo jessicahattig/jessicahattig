@@ -4,6 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <!-- Header Section -->
+<div align="center">
 # Hi, I'm Jessica 🌟
 
 | Full-Stack Developer | Open Source Contributor | Aquatic Enthusiast |
@@ -18,3 +19,5 @@ You can click the Preview link to take a look at your changes.
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jessicahattig&theme=prussian&mode=weekly)](https://git.io/streak-stats)
+
+</div>
