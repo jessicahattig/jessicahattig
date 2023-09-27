@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 ![Node.js](https://img.shields.io/badge/Node.js-003776?style=for-the-badge&logo=node.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-5E60CE?style=for-the-badge&logo=sql&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-6C3483?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=jessicahattig&theme=prussian&mode=weekly)](https://git.io/streak-stats)
 
