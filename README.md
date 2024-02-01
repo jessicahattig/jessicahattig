@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Header Section -->
 # Hi, I'm Jessica 🌟
 
-| Full-Stack Developer | Aquatic Enthusiast |
+| Full-Stack Developer | Software Engineer |
 
 ![HTML](https://img.shields.io/badge/HTML-007ACC?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-006DBE?style=for-the-badge&logo=css3&logoColor=white)
