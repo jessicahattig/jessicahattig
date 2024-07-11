@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <!-- Header Section -->
 # Hi, I'm Jessica 🌟
 
-| Full-Stack Developer | Software Engineer |
+| Full-Stack Developer | Software Engineer | IT Specalist |
 
 ![HTML](https://img.shields.io/badge/HTML-007ACC?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-006DBE?style=for-the-badge&logo=css3&logoColor=white)
@@ -17,5 +17,7 @@ You can click the Preview link to take a look at your changes.
 ![SQL](https://img.shields.io/badge/SQL-5E60CE?style=for-the-badge&logo=sql&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-6C3483?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-002B55?style=for-the-badge&logo=php&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-001A3E?style=for-the-badge&logo=nosql&logoColor=white)
 
 </div>
