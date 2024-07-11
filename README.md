@@ -19,5 +19,6 @@ You can click the Preview link to take a look at your changes.
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-002B55?style=for-the-badge&logo=php&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-001A3E?style=for-the-badge&logo=nosql&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white)
 
 </div>
